@@ -4,8 +4,8 @@
    version="1.0"
    height="1230"
    id="svg949"
-   sodipodi:docname="Mint-Y-Dark.svg"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="Mint-Y-Dark-Legacy.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -19,7 +19,18 @@
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="true"
-     showgrid="false" />
+     showgrid="false"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.65528455"
+     inkscape:cx="224.33002"
+     inkscape:cy="615"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg949" />
   <defs
      id="defs5">
     <linearGradient
@@ -375,7 +386,7 @@
        style="fill:#292929"
        id="rect4962" />
     <path
-       style="fill:#404040"
+       style="fill:#2e2e33"
        id="path5131"
        d="m 272,1170 0,30 1,0 0,-30 z" />
     <path
@@ -393,7 +404,7 @@
        d="m 308.5,1173 -2,0 0,2 2,0 z"
        transform="translate(-35.5,-5)" />
     <path
-       style="fill:#404040"
+       style="fill:#2e2e33"
        id="path5157"
        d="m 273,1169 -1,0 0,1 1,0 z" />
     <path
@@ -609,7 +620,7 @@
      id="common-normal-bottomleft"
      transform="matrix(0,-1,1,0,-867,1513)" />
   <path
-     style="fill:#2b2b2b;stroke:none;fill-opacity:1"
+     style="fill:#222226;stroke:none;fill-opacity:1"
      id="titlebar-normal"
      d="m 397.5,622.5 0,32 32,0 0,-32 z" />
   <g
@@ -632,7 +643,7 @@
      style="stroke:none"
      id="g122">
     <g
-       style="fill:#2B2B2B"
+       style="fill:#222226"
        id="g116">
       <rect
          width="20"
@@ -831,7 +842,7 @@
          id="dock-normal-bottomleft" />
     </g>
     <g
-       style="fill:#2B2B2B"
+       style="fill:#222226"
        id="g151">
       <rect
          width="5"
@@ -888,7 +899,7 @@
        x="407"
        y="1170"
        height="30"
-       style="fill:#404040"
+       style="fill:#2e2e33"
        id="dock-focused" />
     <g
        id="radio-checked-focused"
@@ -1195,7 +1206,7 @@
        id="path5018"
        d="m 92,717.5 -12,0 0,12 12,0 z" />
     <path
-       style="fill:#2b2b2b"
+       style="fill:#222226"
        id="path5020"
        d="m 92,719.5 c -4.5,0 -8,4 -8,9 l 0,0.9998 8,2e-4 z" />
   </g>
@@ -1207,7 +1218,7 @@
        id="path5024"
        d="m 80,729.5002 0,16.4064 0,.094 12,0 0,-16.5 -12,0 z " />
     <path
-       style="fill:#2b2b2b"
+       style="fill:#222226"
        id="path5026"
        d="m 84,729.5006 0,16.4058 0,0.094 8,2e-4 0,-16.4994 -8,-2e-4 z" />
   </g>
@@ -1220,7 +1231,7 @@
        id="path5085"
        d="m 92,717.5 -12,0 0,12 12,0 z" />
     <path
-       style="fill:#2b2b2b"
+       style="fill:#222226"
        id="path5087"
        d="m 92,719.5 c -4.5,0 -8,4 -8,9 l 0,0.9998 8,2e-4 z" />
   </g>
@@ -1233,7 +1244,7 @@
        id="path5077"
        d="m 80,729.5002 0,16.4064 0,.094 12,0 0,-16.5 -12,0 z " />
     <path
-       style="fill:#2b2b2b"
+       style="fill:#222226"
        id="path5079"
        d="m 84,729.5006 0,16.4058 0,0.094 8,2e-4 0,-16.4994 -8,-2e-4 z" />
   </g>
@@ -1556,7 +1567,7 @@
      style="stroke:none;fill-rule:evenodd"
      id="g339">
     <g
-       style="fill:#2b2b2b"
+       style="fill:#222226"
        id="g334">
       <path
          id="progress-normal-left"
@@ -2060,14 +2071,14 @@
      style="stroke:none"
      id="g437">
     <path
-       style="fill:#404040;fill-rule:evenodd"
+       style="fill:#2e2e33;fill-rule:evenodd"
        id="tabframe-normal"
        d="m 285.5,883.5 0,32 32,0 0,-32 -32,0 z" />
     <g
        id="tabframe-normal-left"
        transform="matrix(0.8,0,0,0.98461538,264.5002,835.49842)">
       <path
-         style="fill:#404040;fill-rule:evenodd"
+         style="fill:#2e2e33;fill-rule:evenodd"
          id="path5181"
          d="m 26.25,81.2514 0,-32.4998 -5,0 0,32.5 z" />
       <path
@@ -2081,7 +2092,7 @@
      id="tabframe-normal-topleft"
      transform="matrix(0.8,0,0,0.8,264.5002,846.49872)">
     <path
-       style="fill:#404040;fill-rule:evenodd"
+       style="fill:#2e2e33;fill-rule:evenodd"
        id="path5188"
        d="m 26.25,41.2516 -5,0 0,5 5,0 z" />
     <path
@@ -2094,7 +2105,7 @@
      id="tabframe-normal-top"
      transform="matrix(0,0.8,-0.98461538,0,365.50158,862.5)">
     <path
-       style="fill:#404040;fill-rule:evenodd"
+       style="fill:#2e2e33;fill-rule:evenodd"
        id="path5194"
        d="m 26.25,81.2514 0,-32.4998 -5,0 0,32.5 z" />
     <path
@@ -2117,7 +2128,7 @@
        id="tabframe-normal-right"
        transform="matrix(-0.8,0,0,-0.98461538,338.5,963.50158)">
       <path
-         style="fill:#404040;fill-rule:evenodd"
+         style="fill:#2e2e33;fill-rule:evenodd"
          id="path5202"
          d="m 26.25,81.2514 0,-32.4998 -5,0 0,32.5 z" />
       <path
@@ -2129,7 +2140,7 @@
        id="tabframe-normal-bottom"
        transform="matrix(0,-0.8,0.98461538,0,237.49862,936.4999)">
       <path
-         style="fill:#404040;fill-rule:evenodd"
+         style="fill:#2e2e33;fill-rule:evenodd"
          id="path5208"
          d="m 26.25,81.2514 0,-32.4998 -5,0 0,32.5 z" />
       <path
@@ -2158,14 +2169,14 @@
      style="stroke:none"
      id="g460">
     <path
-       style="fill:#404040;fill-rule:evenodd"
+       style="fill:#2e2e33;fill-rule:evenodd"
        id="tab-toggled"
        d="m 176,883.5 0,32 32,0 0,-32 -32,0 z" />
     <g
        id="tab-toggled-left"
        transform="matrix(0.8,0,0,0.98461538,155.0002,835.49842)">
       <path
-         style="fill:#404040;fill-rule:evenodd"
+         style="fill:#2e2e33;fill-rule:evenodd"
          id="path5220"
          d="m 26.25,81.2514 0,-32.4998 -5,0 0,32.5 z" />
       <path
@@ -2179,7 +2190,7 @@
      id="tab-toggled-topleft"
      transform="matrix(0.8,0,0,0.8,155,846.49872)">
     <path
-       style="fill:#404040;fill-rule:evenodd"
+       style="fill:#2e2e33;fill-rule:evenodd"
        id="path5226"
        d="m 26.25,41.2516 -5,0 0,5 5,0 z" />
     <path
@@ -2192,7 +2203,7 @@
      id="tab-toggled-top"
      transform="matrix(0,0.8,-0.98461538,0,256.00158,862.5)">
     <path
-       style="fill:#404040;fill-rule:evenodd"
+       style="fill:#2e2e33;fill-rule:evenodd"
        id="path5232"
        d="m 26.25,81.2514 0,-32.4998 -5,0 0,32.5 z" />
     <path
@@ -2215,7 +2226,7 @@
        id="tab-toggled-right"
        transform="matrix(-0.8,0,0,0.98461538,229,835.49842)">
       <path
-         style="fill:#404040;fill-rule:evenodd"
+         style="fill:#2e2e33;fill-rule:evenodd"
          id="path5240"
          d="m 26.25,81.2514 0,-32.4998 -5,0 0,32.5 z" />
       <path
@@ -2227,7 +2238,7 @@
        id="tab-toggled-bottomleft"
        transform="matrix(1,0,0,0.66666667,1.9999,305.16666)">
       <path
-         style="fill:#404040;fill-rule:evenodd"
+         style="fill:#2e2e33;fill-rule:evenodd"
          id="path5246"
          d="m 174,921.5 -4,0 .0001,-6 3.9999,0 z " />
       <path
@@ -2236,14 +2247,14 @@
          d="m 171,921.5 -1,0 1e-4,-6 1,0 z" />
     </g>
     <path
-       style="fill:#404040;fill-rule:evenodd"
+       style="fill:#2e2e33;fill-rule:evenodd"
        id="tab-toggled-bottom"
        d="m 176.0002,915.5 31.9998,0 0,4 -32,0 z" />
     <g
        id="tab-toggled-bottomright"
        transform="matrix(-1,0,0,0.66666667,382.0002,305.16656)">
       <path
-         style="fill:#404040;fill-rule:evenodd"
+         style="fill:#2e2e33;fill-rule:evenodd"
          id="path5266"
          d="m 174.0001,921.5 -4.0001,0 .0001,-6 4,0 z " />
       <path
@@ -2582,7 +2593,7 @@
          d="m 268.7501,972 a 1.74961,1.74961 0 0,0 -1.21879,3.00483 l 3.9958,3.9935 -3.9958,3.9958 a 1.74961,1.74961 0 1,0 2.47403,2.47403 l 3.9958,-3.9958 3.9935,3.9958 a 1.74961,1.74961 0 1,0 2.47403,-2.47403 l -3.9935,-3.9958 3.9935,-3.9935 a 1.74961,1.74961 0 0,0 -1.21879,-3.00483 1.74961,1.74961 0 0,0 -1.25524,0.5308 l -3.9935,3.9935 -3.9958,-3.9935 a 1.74961,1.74961 0 0,0 -1.25524,-0.5308 z " />
     </g>
     <path
-       style="fill:#404040"
+       style="fill:#2e2e33"
        id="lineedit-normal"
        d="m 321.5,76.5 0,32 32,0 0,-32 -32,0 z" />
   </g>
@@ -2639,7 +2650,7 @@
      id="lineedit-focused-left"
      transform="matrix(0.8,0,0,0.98461538,356,28.498425)">
     <path
-       style="fill:#404040;fill-rule:evenodd"
+       style="fill:#2e2e33;fill-rule:evenodd"
        id="path5041"
        d="m 28.75,81.2514 0,-32.4998 -7.5,0 0,32.5 z" />
     <path
@@ -2652,7 +2663,7 @@
      id="lineedit-focused-topleft"
      transform="matrix(0.8,0,0,0.8,356,37.49872)">
     <path
-       style="fill:#404040;fill-rule:evenodd"
+       style="fill:#2e2e33;fill-rule:evenodd"
        id="path5047"
        d="m 28.75,41.2516 c -4.125,-5.1e-05 -7.50003,3.37497 -7.5,7.5 h 7.5 z " />
     <path
@@ -3109,7 +3120,7 @@
        style="fill:#8fa876"
        id="rect4870" />
     <path
-       style="fill:#404040"
+       style="fill:#2e2e33"
        id="path4872"
        d="m 272,1170 0,30 1,0 0,-30 z" />
     <path
@@ -3127,7 +3138,7 @@
        d="m 308.5,1172.5 -2.5,0 0,2.5 2.5,0 z"
        transform="translate(-35.5,-5)" />
     <path
-       style="fill:#404040"
+       style="fill:#2e2e33"
        id="path4880"
        d="m 273,1169 -1,0 0,1 1,0 z" />
     <path
@@ -3518,7 +3529,7 @@
        style="fill-rule:evenodd"
        id="g749">
       <g
-         style="fill:#404040"
+         style="fill:#2e2e33"
          id="g737">
         <path
            id="header-normal-bottom"
@@ -3532,7 +3543,7 @@
          id="header-pressed-bottom"
          d="m 146,96.5 h -6 v 6 h 6 z" />
       <g
-         style="fill:#404040"
+         style="fill:#2e2e33"
          id="g747">
         <path
            id="header-normal-bottomleft"
@@ -3573,7 +3584,7 @@
        style="fill-rule:evenodd"
        id="g772">
       <g
-         style="fill:#404040"
+         style="fill:#2e2e33"
          id="g761">
         <path
            id="header-focused-bottomleft"
@@ -3701,7 +3712,7 @@
      style="fill-rule:evenodd;stroke:none"
      id="g813">
     <g
-       style="fill:#404040"
+       style="fill:#2e2e33"
        id="g799">
       <path
          id="header-normal"
@@ -3715,7 +3726,7 @@
        id="header-pressed"
        d="m 146,84.5 h -6 v 6 h 6 z" />
     <g
-       style="fill:#404040"
+       style="fill:#2e2e33"
        id="g811">
       <path
          id="header-toggled-bottom"
@@ -3989,7 +4000,7 @@
      style="fill-rule:evenodd;stroke:none"
      id="g856">
     <path
-       style="fill:#404040"
+       style="fill:#2e2e33"
        id="combo-pressed"
        d="m 325.5001,20 v 32 h 32 V 20 Z" />
     <rect
@@ -4954,7 +4965,7 @@
      id="lineedit-normal-left"
      transform="matrix(0.8,0,0,0.98461538,298.5002,28.498327)">
     <path
-       style="fill:#404040;fill-opacity:1;fill-rule:evenodd"
+       style="fill:#2e2e33;fill-opacity:1;fill-rule:evenodd"
        id="path4266-6"
        d="M 28.75,81.2514 V 48.7516 h -7.5 v 32.5 z" />
     <path
@@ -4967,7 +4978,7 @@
      id="lineedit-normal-topleft"
      transform="matrix(0.8,0,0,0.8,298.5002,37.498622)">
     <path
-       style="fill:#404040;fill-opacity:1;fill-rule:evenodd"
+       style="fill:#2e2e33;fill-opacity:1;fill-rule:evenodd"
        id="path4272-3"
        d="m 28.75,41.2516 c -4.125,-5.1e-5 -7.50003,3.37497 -7.5,7.5 h 7.5 z" />
     <path
